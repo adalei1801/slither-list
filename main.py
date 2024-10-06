@@ -33,7 +33,7 @@ while True:
             print(item_index, ")", x)
              # Loop statement that orgainzes list items by line and prints it for the user
         print(" ")
-        ask_task = input("Would you like to add, remove, or edit one? Or would you like to close the program? ").lower()
+        ask_task = input("Would you like to add, remove, or edit a task? Would you like to clear the list? Or would you like to close the program? ").lower()
         # Asks user to add or remove a task and converts answer to lowercase
         print(" ")
         print("-------------------------------")
